@@ -1,6 +1,6 @@
-Kristen loves playing with and comparing numbers. She thinks that if she takes two different positive numbers, the one whose digits sum to a larger number is better than the other. If the sum of digits is equal for both numbers, then she thinks the smaller number is better. For example, Kristen thinks that  is better than  and that  is better than .
+#Kristen loves playing with and comparing numbers. She thinks that if she takes two different positive numbers, the one whose digits sum to a larger number is better than the other. If the sum of digits is equal for both numbers, then she thinks the smaller number is better. For example, Kristen thinks that  is better than  and that  is better than .
 
-Given an integer, , can you find the divisor of  that Kristin will consider to be the best?
+#Given an integer, , can you find the divisor of  that Kristin will consider to be the best?
 
 #Input Format
 
